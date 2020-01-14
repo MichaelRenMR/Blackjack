@@ -1,7 +1,7 @@
 # Blackjack
 A simple Blackjack game coded in Java utilizing objected oriented programming. Runs in terminal. Features a dealer class, player class, and CPU class which plays according to predetermined rules. Double downs and splits are fully implemented as well. 
 
-## Code Parts
+## Code Breakdown
 ### BlackjackMain.java 
 The main driver code for the game. 
 
