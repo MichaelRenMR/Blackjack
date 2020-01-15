@@ -32,6 +32,9 @@ Code for attributes every player (including CPU and house) should have. Utilizes
 ### PlayerLogic.java 
 Driver code for how the CPU and house play the game as well as player inputs. 
 
+## Usage 
+Build all files and run `BlackjackMain.java`.
+
 ## Future Development 
 No future development is currently planned. If development starts again a GUI would be the main priority. 
 
